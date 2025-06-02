@@ -1,6 +1,34 @@
-# aka
 
-A new Flutter project.
+# 📒 notesapp
+
+A simple and elegant Notes App built with Flutter.
+
+## ✨ Features
+
+- ✅ Add, edit, and delete notes
+- 🔍 Real-time search functionality
+- 🎨 Custom note colors
+- 🗂️ Organized and responsive layout
+- 🚀 Smooth navigation and clean UI
+
+## 📋 Usage
+
+- Tap the ➕ button to create a new note.
+- Long press a note to reveal edit/delete actions.
+- Use the search icon in the app bar to filter your notes by title or content.
+
+## 🛠️ Tech Stack
+
+- **Flutter** – UI toolkit
+- **SQLite** – Local database
+- **Dart** – Programming language
+
+## 📦 Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/abhverma9769/notesapp.git
+
 
 ## Getting Started
 
